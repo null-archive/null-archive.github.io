@@ -28,6 +28,7 @@ function print(value)
 
 inputString = "";
 print("Currently is in a developing state");
+print("");
 print("There is nothing here yet.");
 print("");
 print("home\\users\\main\\\> ");
