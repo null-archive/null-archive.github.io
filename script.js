@@ -119,7 +119,7 @@ function userInput(e)
 	}
 }
 
-//let undescoreUpdate = setInterval(function() { underscore = !underscore; update(); }, 500);
+let undescoreUpdate = setInterval(function() { underscore = !underscore; update(); }, 500);
 
 document.addEventListener("click", (event) => 
 {
